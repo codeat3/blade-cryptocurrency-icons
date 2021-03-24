@@ -1,0 +1,49 @@
+{
+    "name": "codeat3/blade-cryptocurrency-icons",
+    "description": "A package to easily make use of Cryptocurrency Icons in your Laravel Blade views.",
+    "keywords": ["Blade", "unicons", "Laravel"],
+    "homepage": "https://github.com/codeat3/blade-cryptocurrency-icons",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Swapnil Sarwe",
+            "homepage": "https://swapnilsarwe.com"
+        },
+        {
+            "name": "Dries Vints",
+            "homepage": "https://driesvints.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0",
+        "blade-ui-kit/blade-icons": "^0.5.0",
+        "illuminate/support": "^7.14|^8.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^5.0|^6.0",
+        "phpunit/phpunit": "^8.0|^9.0",
+        "symfony/finder": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codeat3\\BladeCryptocurrencyIcons\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+              "Codeat3\\BladeCryptocurrencyIcons\\BladeCryptocurrencyIconsServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
