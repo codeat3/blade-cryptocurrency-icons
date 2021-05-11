@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://banners.beyondco.de/Blade%20Cryptocurrency%20Icons.png?theme=light&packageManager=composer+require&packageName=codeat3%2Fblade-cryptocurrency-icons&pattern=architect&style=style_1&description=A+package+to+use+Cryptocurrency%20Icons+in+your+Laravel+Blade+views&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="1280" title="Social Card Blade Cryptocurrency Icons">
+    <img src="./socialcard-blade-cryptocurrency-icons.png" width="1280" title="Social Card Blade Cryptocurrency Icons">
 </p>
 
 # Blade Cryptocurrency Icons
@@ -32,6 +32,18 @@ composer require codeat3/blade-cryptocurrency-icons
 ## Updating
 
 Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
+
+### Blade Icons
+
+Blade Cryptocurrency Icons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality. We also recommend to [enable icon caching](https://github.com/blade-ui-kit/blade-icons#caching) with this library.
+
+## Configuration
+
+Blade Cryptocurrency Icns also offers the ability to use features from Blade Icons like default classes, default attributes, etc. If you'd like to configure these, publish the `blade-codicon.php` config file:
+
+```bash
+php artisan vendor:publish --tag=blade-cryptocurrency-icons-config
+```
 
 ## Usage
 
@@ -66,10 +78,6 @@ Then use them in your views like:
 ```blade
 <img src="{{ asset('vendor/blade-cri/xrp.svg') }}" width="10" height="10"/>
 ```
-
-### Blade Icons
-
-Blade Cryptocurrency Icons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality.
 
 ## Changelog
 
