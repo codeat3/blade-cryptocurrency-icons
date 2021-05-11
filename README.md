@@ -33,7 +33,7 @@ composer require codeat3/blade-cryptocurrency-icons
 
 Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
 
-### Blade Icons
+## Blade Icons
 
 Blade Cryptocurrency Icons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality. We also recommend to [enable icon caching](https://github.com/blade-ui-kit/blade-icons#caching) with this library.
 
