@@ -2,8 +2,12 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## 1.1.0 (2021-05-11)
+## 1.2.0 (2021-05-11)
 Added support for config file
+
+## 1.1.0 (2021-04-13)
+made icons compatible by adding missing viewBox attr
+
 
 ## 1.0.0 (2021-03-24)
 
