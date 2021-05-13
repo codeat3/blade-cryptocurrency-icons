@@ -2,6 +2,12 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.2.2 (2021-05-13)
+removing unwanted package `symfony/finder` from dependency
+
+## 1.2.1 (2021-05-12)
+fixes the icon set name
+
 ## 1.2.0 (2021-05-11)
 Added support for config file
 
