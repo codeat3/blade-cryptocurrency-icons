@@ -32,7 +32,7 @@ final class BladeCryptocurrencyIconsServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__.'/../resources/svg' => public_path('vendor/blade-cryptocurrency-icons'),
-            ], 'blade-cryptocurrency-icons');
+            ], 'blade-cri'); // TODO: updating this alias to `blade-cryptocurrency-icons` in next major release
 
             $this->publishes([
                 __DIR__.'/../config/blade-cryptocurrency-icons.php' => $this->app->configPath('blade-cryptocurrency-icons.php'),

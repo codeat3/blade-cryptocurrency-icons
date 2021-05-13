@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.2.3 (2021-05-13)
+typo fix the publishing of icons alias
+
 ## 1.2.2 (2021-05-13)
 removing unwanted package `symfony/finder` from dependency
 
