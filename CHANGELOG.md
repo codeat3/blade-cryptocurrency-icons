@@ -2,6 +2,9 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.3.3 (2021-05-14)
+synced with the latest release [Cryptocurrency Icons v0.17.2](https://github.com/spothq/cryptocurrency-icons/releases/tag/v0.17.2)
+
 ## 1.2.3 (2021-05-13)
 typo fix the publishing of icons alias
 
