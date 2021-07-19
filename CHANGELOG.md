@@ -2,6 +2,10 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## 1.4.3 (2021-07-19)
+- added icon generation & auto update action
+- icon updates due to generic icon generation scripts
+
 ## 1.3.3 (2021-05-14)
 synced with the latest release [Cryptocurrency Icons v0.17.2](https://github.com/spothq/cryptocurrency-icons/releases/tag/v0.17.2)
 
