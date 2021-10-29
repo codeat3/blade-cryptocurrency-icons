@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Codeat3\BladeCryptocurrencyIcons;
 
 use BladeUI\Icons\Factory;
-use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Container\Container;
+use Illuminate\Support\ServiceProvider;
 
 final class BladeCryptocurrencyIconsServiceProvider extends ServiceProvider
 {
