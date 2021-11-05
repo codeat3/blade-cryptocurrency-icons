@@ -2,6 +2,8 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
+## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.4.3...main)
+
 ## 1.4.3 (2021-07-19)
 - added icon generation & auto update action
 - icon updates due to generic icon generation scripts
