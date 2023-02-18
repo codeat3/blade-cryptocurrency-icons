@@ -2,7 +2,19 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.3...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.4...HEAD)
+
+## [1.5.4](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.3...1.5.4) - 2023-02-18
+
+### What's Changed
+
+- Support Laravel 10 by @inmanturbo in https://github.com/codeat3/blade-cryptocurrency-icons/pull/5
+
+### New Contributors
+
+- @inmanturbo made their first contribution in https://github.com/codeat3/blade-cryptocurrency-icons/pull/5
+
+**Full Changelog**: https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.3...1.5.4
 
 ## [1.5.3](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.4.3...1.5.3) - 2022-02-03
 
