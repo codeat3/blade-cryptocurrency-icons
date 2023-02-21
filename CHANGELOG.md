@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.4...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.6.4...HEAD)
+
+## [1.6.4](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.4...1.6.4) - 2023-02-21
+
+### What's Changed
+
+- chore: update icons with the latest commit [1a63530](https://github.com/spothq/cryptocurrency-icons/commit/1a63530be6e374711a8554f31b17e4cb92c25fa5) by @github-actions in https://github.com/codeat3/blade-cryptocurrency-icons/pull/6
+
+**Full Changelog**: https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.4...1.6.4
 
 ## [1.5.4](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.3...1.5.4) - 2023-02-18
 
