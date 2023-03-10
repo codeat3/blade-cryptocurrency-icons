@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.6.4...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.6.5...HEAD)
+
+## [1.6.5](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.6.4...1.6.5) - 2023-03-10
+
+### What's Changed
+
+- fixes fill attribute values by @swapnilsarwe in https://github.com/codeat3/blade-cryptocurrency-icons/pull/8
+
+**Full Changelog**: https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.6.4...1.6.5
 
 ## [1.6.4](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.5.4...1.6.4) - 2023-02-21
 
