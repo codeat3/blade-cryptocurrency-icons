@@ -15,6 +15,13 @@ $svgNormalization = static function (string $tempFilepath, array $iconSet) {
             $svgEL->setAttribute('viewBox', $vBox);
 
         })
+        ->postOptimizationAsString(function ($svgLine) {
+            return str_replace([
+                'fill="#1D1D1D"',
+                'fill="#181818"',
+                'fill="#000"',
+            ], 'fill="currentColor"', $svgLine);
+        })
         ->save();
 };
 
