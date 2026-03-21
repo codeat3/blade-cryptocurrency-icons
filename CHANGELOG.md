@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.8.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.9.0...HEAD)
+
+## [1.9.0](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.8.0...1.9.0) - 2026-03-21
+
+### What's Changed
+
+* laravel 13 compatibility by @swapnilsarwe in https://github.com/codeat3/blade-cryptocurrency-icons/pull/11
+
+**Full Changelog**: https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.8.0...1.9.0
 
 ## [1.8.0](https://github.com/codeat3/blade-cryptocurrency-icons/compare/1.7.0...1.8.0) - 2025-02-26
 
